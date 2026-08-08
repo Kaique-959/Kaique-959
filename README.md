@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:6d28d9,100:a855f7&text=KAIQUE%20CALEFI&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;DIGITAL+SOLUTIONS+DEVELOPER;REACT+%7C+TYPESCRIPT+%7C+PYTHON;AI+%7C+AUTOMATION+%7C+CRM;WELCOME+TO+MY+CODE+UNIVERSE"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;DIGITAL+SOLUTIONS+DEVELOPER;REACT+%7C+NEXT.JS+%7C+TYPESCRIPT;AI+%7C+AUTOMATION+%7C+CRM;APIs+%7C+SUPABASE+%7C+N8N;WELCOME+TO+MY+CODE+UNIVERSE"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ```bash
 ╭────────────────────────────╮
-│      KAIQUE SYSTEM v2.0    │
+│     KAIQUE SYSTEM v2.0     │
 ╰────────────────────────────╯
 
 Initializing system...
@@ -22,6 +22,8 @@ Initializing system...
 ✔️ Developer detected
 ✔️ Creativity enabled
 ✔️ Code engine activated
+✔️ AI workflows loaded
+✔️ Automations connected
 ✔️ Projects loaded
 
 STATUS: ONLINE 🚀
@@ -41,43 +43,82 @@ const Kaique = {
  location: "Brazil 🇧🇷",
 
  stack: {
+
     frontend: [
       "React",
+      "Next.js",
       "JavaScript",
       "TypeScript",
       "HTML",
-      "CSS"
+      "CSS",
+      "Redux",
+      "Context API"
     ],
 
     backend: [
       "Node.js",
       "Python",
-      "Supabase",
-      "n8n"
+      "REST APIs",
+      "Webhooks"
     ],
 
     database: [
-      "Supabase"
+      "Supabase",
+      "PostgreSQL",
+      "MySQL",
+      "Firebase"
+    ],
+
+    automation: [
+      "n8n",
+      "Zapier",
+      "AI Agents",
+      "Google Sheets"
+    ],
+
+    integrations: [
+      "WhatsApp",
+      "Google Calendar",
+      "Google Maps",
+      "Mercado Livre",
+      "Stripe",
+      "PagSeguro"
     ]
+
  },
 
  tools: [
    "Git",
    "GitHub",
+   "GitHub Actions",
    "VS Code",
-   "n8n"
+   "Postman",
+   "Docker",
+   "Vercel",
+   "Figma",
+   "Bash"
  ],
 
- specialties: [
-   "Web Development",
+ skills: [
+   "Responsive Web Development",
+   "Landing Pages",
    "CRM Systems",
-   "Automation",
+   "Process Automation",
    "AI Agents",
-   "WhatsApp Integrations"
+   "API Integrations",
+   "UX/UI",
+   "Web Performance",
+   "Data Monitoring",
+   "Price Monitoring",
+   "E-commerce Integrations",
+   "Payment Integrations",
+   "Digital Marketing",
+   "Project Organization",
+   "Business Process Optimization"
  ],
 
  passion:
- "Building digital solutions that solve real problems 🚀"
+ "Building digital solutions that solve real business problems 🚀"
 
 }
 ```
@@ -88,11 +129,33 @@ const Kaique = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,supabase,git,github,vscode&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,redux,firebase,supabase,postgres,mysql,docker,git,github,vscode,figma&perline=9"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Zapier-Automation-FF4F00?style=for-the-badge&logo=zapier&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/WhatsApp-Integrations-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google%20Calendar-Scheduling-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google%20Maps-API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST%20API-Integrations-8A2BE2?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Stripe-Payments-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PagSeguro-Payments-00B241?style=for-the-badge&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Vercel-Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
 </div>
 
@@ -102,12 +165,12 @@ const Kaique = {
 
 | 🚀 Project | 💡 Description |
 |---|---|
-| 🩺 FonoCRM | CRM System for Clinics |
-| 🤖 Atendimento Libertad | WhatsApp Automation |
-| ✂️ Ferro & Fio | Modern Barbershop Website |
-| 📊 Radar de Ofertas | E-commerce Price Monitoring |
-| 🛒 Monitor Mercado Livre | Marketplace Opportunity Monitor |
-| 🌐 Portfolio | Personal Developer Portfolio |
+| 🩺 **FonoCRM** | Web CRM for clinics with patient management, appointment history, Google Calendar synchronization and an operational dashboard connected to Supabase |
+| 🤖 **Atendimento Libertad** | WhatsApp automation with exam menus, data collection, real-time availability checking and automatic appointment confirmation |
+| ✂️ **Ferro & Fio** | Complete barbershop digital experience with responsive design, service presentation, location and WhatsApp booking flow |
+| 📊 **Radar de Ofertas** | E-commerce monitoring system with opportunity filters, price history, data processing and automated offer publishing |
+| 🛒 **Monitor Mercado Livre** | Marketplace monitoring solution focused on products, listings, prices and opportunity identification |
+| 🌐 **Portfolio** | Personal developer portfolio with editorial design, responsive interfaces, animations, performance optimization and LiquidMetal shader experience |
 
 ---
 
@@ -118,11 +181,19 @@ const Kaique = {
 
 [██████████] Web Development
 
-[████████░░] CRM & Systems
+[█████████░] React & Next.js
 
-[█████████░] Automation
+[█████████░] CRM & Business Systems
+
+[█████████░] Process Automation
 
 [████████░░] Artificial Intelligence
+
+[█████████░] APIs & Integrations
+
+[████████░░] Data & Monitoring
+
+[████████░░] DevOps & Deploy
 
 [██████████] Creating Real Projects
 
@@ -188,13 +259,21 @@ Never stop learning 🚀
 <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
+<a href="mailto:comercial.kalefiorg@gmail.com">
+<img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/5561994028229">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-### 💜 "Turning ideas into solutions and solutions into real experiences."
+### 💜 "Turning ideas into code and real problems into digital solutions."
 
 <img src="https://komarev.com/ghpvc/?username=Kaique-959&style=for-the-badge&color=8A2BE2"/>
 
