@@ -273,7 +273,7 @@ Never stop learning 🚀
 
 <div align="center">
 
-### 💜 "Turning ideas into code and real problems into digital solutions."
+###  "Turning ideas into code and real problems into digital solutions."
 
 <img src="https://komarev.com/ghpvc/?username=Kaique-959&style=for-the-badge&color=8A2BE2"/>
 
